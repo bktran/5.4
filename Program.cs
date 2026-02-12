@@ -6,7 +6,8 @@
         {
             //1
             ReturnDigits(1234);
-            ReturnDigits(1234);
+            Console.WriteLine();
+            ReturnDigits(4321);
             Console.WriteLine();
             Console.WriteLine();
             //2
